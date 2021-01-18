@@ -1,0 +1,52 @@
+.container{
+    margin: 70px;
+}
+.bg-color{
+background-color:beige;
+border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+.buy-now-button{
+    background-image:linear-gradient( to bottom, rgb(10, 10, 10) 0%, black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    background-color: beige
+    
+}
+.smartphone{
+    padding-right: ;
+}
+.price{
+    align-items: center;
+}
+.inn{
+    margin-bottom: 50px;
+}
+.mar{
+    margin-bottom: 25px;
+    color:yellow;
+
+}
+.si-2{
+    text-align: center;
+}
+.submit{
+    padding-top: 20px;
+}
+
+.foot{
+    text-align: center;
+    color: dimgray;
+}
+
